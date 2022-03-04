@@ -1,0 +1,26 @@
+{
+  "name": "killify",
+  "version": "0.0.1",
+  "description": "For killing all the hanging running processes.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maliMirkec/killify.git"
+  },
+  "keywords": ["cli", "process", "terminal", "bash"],
+  "author": "Silvestar Bistrović <me@silvestar.codes> (https://www.silvestar.codes/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maliMirkec/killify/issues"
+  },
+  "bin": {
+    "killify": "./bin/script.js"
+  },
+  "homepage": "https://github.com/maliMirkec/killify#readme",
+  "dependencies": {
+    "args": "^5.0.1"
+  }
+}
