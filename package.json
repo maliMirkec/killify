@@ -1,6 +1,6 @@
 {
   "name": "killify",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "For killing all the hanging running processes.",
   "main": "script.js",
   "scripts": {

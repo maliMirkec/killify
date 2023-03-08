@@ -14,6 +14,8 @@ npm install -g killify
 
 ## Usage
 
+Run the command in terminal:
+
 ```
 killify
 ```
