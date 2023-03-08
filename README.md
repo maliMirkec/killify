@@ -9,7 +9,7 @@ Killify terminates all processes that are hanging there in the background.
 ## Installation
 
 ```bash
-npm install -g killify`
+npm install -g killify
 ```
 
 ## Usage
