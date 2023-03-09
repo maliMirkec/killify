@@ -22,4 +22,4 @@ killify
 
 ## Example
 
-Watch on YouTube: <https://www.youtube.com/watch?v=gQMsVdOc88s>.
+Watch on YouTube: <https://youtu.be/8gjzPBxCd_o>.
