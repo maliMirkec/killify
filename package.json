@@ -1,6 +1,6 @@
 {
   "name": "killify",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "description": "For killing all the hanging running processes.",
   "main": "script.js",
   "scripts": {
@@ -20,7 +20,5 @@
     "killify": "./bin/script.js"
   },
   "homepage": "https://github.com/maliMirkec/killify#readme",
-  "dependencies": {
-    "args": "^5.0.1"
-  }
+  "dependencies": {}
 }
