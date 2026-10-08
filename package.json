@@ -1,7 +1,7 @@
 {
   "name": "killify",
-  "version": "0.0.5",
-  "description": "For killing all the hanging running processes.",
+  "version": "1.0.0",
+  "description": "Kill web dev servers that keep a port open, like Eleventy, Hugo, Jekyll, Vite, Next, and more.",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/maliMirkec/killify.git"
   },
-  "keywords": ["cli", "process", "terminal", "bash"],
+  "keywords": ["cli", "process", "terminal", "bash", "port", "kill", "dev-server", "eleventy", "hugo", "jekyll", "vite"],
   "author": "Silvestar Bistrović <me@silvestar.codes> (https://www.silvestar.codes/)",
   "license": "ISC",
   "bugs": {
@@ -18,6 +18,9 @@
   },
   "bin": {
     "killify": "./bin/script.js"
+  },
+  "engines": {
+    "node": ">=12"
   },
   "homepage": "https://github.com/maliMirkec/killify#readme",
   "dependencies": {
